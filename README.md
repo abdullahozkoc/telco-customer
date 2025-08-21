@@ -51,7 +51,7 @@ payment method, monthly charges, total charges) - **Target Variable:**
 1.  Clone the repository:
 
     ``` bash
-    git clone [](https://github.com/abdullahozkoc/telco-customer.git)
+    git clone https://github.com/abdullahozkoc/telco-customer.git
     cd telco-customer
     ```
 
