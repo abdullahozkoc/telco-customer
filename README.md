@@ -51,8 +51,8 @@ payment method, monthly charges, total charges) - **Target Variable:**
 1.  Clone the repository:
 
     ``` bash
-    git clone <repo_url>
-    cd <repo_folder>
+    git clone [](https://github.com/abdullahozkoc/telco-customer.git)
+    cd telco-customer
     ```
 
 2.  Install dependencies:
